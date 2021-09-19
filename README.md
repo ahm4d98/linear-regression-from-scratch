@@ -1,1 +1,1 @@
-this is a linear regression implementation from scrath 
+this is a logistic regression implementation from scrath 
